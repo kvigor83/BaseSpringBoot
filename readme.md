@@ -1,0 +1,1 @@
+Basic project using technologies: SpringBoot, JDBC, JPA, MySQL, intended for further expansion
